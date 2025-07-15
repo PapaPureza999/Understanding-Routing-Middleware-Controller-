@@ -70,14 +70,6 @@ Server will start at: `http://localhost:3000`
 - Middleware (e.g., logging and JSON parsing)
 - Clean and maintainable backend architecture
 
-## 📌 Future Improvements
-
-- Input validation with express-validator
-- Persistent storage (MongoDB/MySQL)
-- Error-handling middleware
-- Authentication (JWT)
-- Deployment using Render or Railway
-
 ## 🧑‍💻 Author
 
 **Pranjal**  
